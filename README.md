@@ -1,3 +1,4 @@
+
 # Electric Vehicle Market Analysis and Visualization
 
 ## Overview
@@ -30,3 +31,6 @@ This project analyzes the Indian Electric Vehicle market using data analytics an
 - Visualization
 - Insights
 - Conclusion
+=======
+# EV-Market-Analysis
+Data Analytics and Visualization project analyzing the Indian Electric Vehicle market using Python, Pandas, Matplotlib, and Seaborn.
